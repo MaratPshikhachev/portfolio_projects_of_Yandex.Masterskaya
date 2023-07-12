@@ -1,6 +1,6 @@
 # Анализ вакансий на LinkedIn
 
-[vacancy_linkedIn](https://github.com/MaratPshikhachev/portfolio_projects_of_Yandex.Masterskaya/blob/main/linkedIn/vacancy_linkedIn.ipynb)
+проект - [vacancy_linkedIn](https://github.com/MaratPshikhachev/portfolio_projects_of_Yandex.Masterskaya/blob/main/linkedIn/vacancy_linkedIn.ipynb)
 
 ## Описание проекта
 
